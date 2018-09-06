@@ -1,0 +1,32 @@
+Comparar dois commits marcando cada linha que esteja presente num commit, mas não no outro.
+
+- git diff
+
+Fazer cópia de um repositório Git inteiro, incluindo o histórico, no seu próprio computador.
+
+- git clone
+
+Resetar temporariamente todos os arquivos de um diretório para a forma que estavam no tempo de um commit específico.
+
+- git checkout
+
+Mostrar os commits feitos nesse repositório, começando pelo mais recente.
+
+- git log
+
+Criar um repositório
+
+- git init
+
+Ver o status de um repositório
+
+- git status
+
+Adicionar um ficheiro ao estado intermédio "staging area"
+
+- git add
+
+Remover o ficheiro do estado intermédio
+
+- git reset
+
